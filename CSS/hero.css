@@ -1,10 +1,10 @@
-.hero{
+.hero {
     width: 1440px;
     height: 600px;
     background: var(--navy-blue);
 }
 
-.title-hero{
+.title-hero {
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 56px;
@@ -29,4 +29,4 @@
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: var(--iris);
     cursor: pointer;
-} 
+}

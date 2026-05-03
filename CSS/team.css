@@ -38,7 +38,7 @@
     color: var(--navy-blue);
 }
 
- .team-text {
+.team-text {
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 16px;
@@ -48,4 +48,4 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--slate);
- }
+}
