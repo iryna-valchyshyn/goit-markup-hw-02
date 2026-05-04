@@ -18,7 +18,7 @@ body {
     width: 1440px;
     height: 3300px;
     background: var(--white);
-    --font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     --second-family: "Raleway", sans-serif;
     color: #434455;
 }
