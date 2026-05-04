@@ -26,5 +26,6 @@
 
 .hero-button:hover,
 .hero-button:focus {
-    color: #404bbf;
+    background: #404bbf;
+    color: var(--white);
 }
