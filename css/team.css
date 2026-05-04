@@ -1,12 +1,4 @@
 .team {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: column;
-    gap: 0px;
-    padding: 120px 0px;
-    width: 1440px;
-    height: 732px;
     background: var(--cloud);
 }
 
@@ -24,6 +16,10 @@
 
 .list-team {
     list-style-type: none;
+}
+
+.team-li{
+    background-color: #ffffff;
 }
 
 .team-mini-title {
